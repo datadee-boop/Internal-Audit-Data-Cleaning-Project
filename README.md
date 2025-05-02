@@ -72,3 +72,9 @@ Unified various truthy/falsy labels (`TRUE`, `FALSE`, `F`, `T`) into `'Yes'` and
 - **Dateutil** (for robust date parsing)
 
 ---
+
+
+## 👨‍💻 Author  
+**datadee-boop**  
+Aspiring Data Analyst passionate about transforming messy data into valuable business insights.  
+📧 *Feel free to connect or reach out for feedback or questions!*
